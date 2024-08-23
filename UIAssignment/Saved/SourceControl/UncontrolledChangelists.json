@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s221150/Documents/UI-Assignment/UIAssignment/Content/UI/Assets/MainMenu/discord-brands-solid_1_.uasset",
+				"C:/Users/s221150/Documents/UI-Assignment/UIAssignment/Content/UI/MainMenu.uasset",
+				"C:/Users/s221150/Documents/UI-Assignment/UIAssignment/Content/UI/Assets/MainMenu/twitter-brands-solid_1_.uasset"
+			]
+		}
+	]
+}
